@@ -1,0 +1,33 @@
+# basics
+tqdm
+numpy
+pandas
+scipy
+scikit-learn
+
+# plotting
+matplotlib
+plotly
+seaborn
+
+# images
+opencv-python
+Pillow
+
+# jupyter
+jupyterlab
+ipywidgets
+jupyterlab-widgets
+notebook
+
+# ML frameworks
+tensorflow
+keras
+torch
+torchvision
+torchaudio
+tensorboard
+torchinfo
+torchmetrics
+
+captum
