@@ -29,5 +29,6 @@ torchaudio
 tensorboard
 torchinfo
 torchmetrics
+torchsummary
 
 captum
